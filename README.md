@@ -18,8 +18,6 @@ This project demonstrates the implementation of a simplified e-commerce platform
     * User profile management.
 * **Payments (Simulated):**
     * Simulated payment processing.
-* **Coupons:**
-    * Discount coupon management.
 
 ## Architecture
 
